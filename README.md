@@ -10,40 +10,61 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Mohamed, a software developer with a strong foundation in **full-stack development**, **mobile app development**, and a keen interest in **building impactful solutions**. With expertise in **Java**, **React**, **MongoDB**, and **Next.js**, I am passionate about creating efficient, secure, and user-friendly applications. I enjoy collaborating in **Agile environments** and leveraging **Test-Driven Development (TDD)** to deliver robust and reliable software.
+Hello! I'm **Mohamed Yusuf Mohamed**, a passionate and detail-oriented software developer with a strong foundation in **full-stack development**, **mobile application development**, and **machine learning fundamentals**. I thrive on creating impactful, user-centric solutions and have honed my skills through hands-on experience in **React**, **Java**, **MongoDB**, and **Next.js**.
 
-- 🌱 Currently working on **Next.js projects** and exploring **SaaS applications**.
-- 💡 Skills: Kotlin, Python, Swift, Flutter, TDD, Agile Methodologies.
-- 🎯 Goal: Build cutting-edge software solutions that make a difference.
-- ⚡ Fun Fact: I'm fluent in **Somali**, **Arabic**, and **English**!
+I am driven by the principles of **Test-Driven Development (TDD)**, **Agile Methodologies**, and **Clean Code Practices**. My multilingual background in **Somali**, **Arabic**, and **English** enhances my ability to communicate effectively in diverse team environments.
 
 ---
 
-## 🛠️ Skills
+### 💻 Technical Skills
 
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### **Programming Languages**
+- Java (Object-Oriented Programming - OOP, Multi-threading)
+- JavaScript (ES6+)
+- Python
+- Kotlin
+- Swift
+- TypeScript
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+#### **Web Development**
+- React (Hooks, State Management)
+- Next.js (Server-Side Rendering, Static Site Generation)
+- Node.js (RESTful APIs)
+- Tailwind CSS
+- HTML5, CSS3
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### **Mobile Development**
+- Kotlin (Android Apps)
+- Swift (iOS Apps)
+- Flutter (Cross-Platform Apps)
+- React Native (Cross-Platform Mobile Development)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Agile](https://img.shields.io/badge/-Agile-3BC4C4?style=for-the-badge&logo=agile&logoColor=white)
-![TDD](https://img.shields.io/badge/-Test%20Driven%20Development-0A1F44?style=for-the-badge&logo=test&logoColor=white)
+#### **Frameworks & Libraries**
+- Spring Boot (Backend Development)
+- Express.js
+- Three.js
+
+#### **Databases**
+- MongoDB (NoSQL)
+- MySQL (SQL)
+
+#### **Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Linux
+- Firebase
+
+#### **Methodologies**
+- Test-Driven Development (TDD)
+- Agile Methodologies (Scrum, Kanban)
+- Clean Code Principles
+- RESTful API Development
+
+#### **Other Skills**
+- Machine Learning Fundamentals
+- Multi-threaded Programming
+- UI/UX Design with Tailwind CSS
+- Problem Solving & Algorithms
 
 ---
 
