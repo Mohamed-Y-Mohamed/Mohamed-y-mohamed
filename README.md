@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Yusuf Mohamed 👋</h1>
+C<h1 align="center">Hi there, I'm Mohamed Yusuf Mohamed 👋</h1>
 
 <p align="center">
   <a href="https://domainexpansion.co.uk/"><img src="https://img.shields.io/badge/-Portfolio-0A1F44?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" height="40" alt="tailwindcss logo" />
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg](https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
