@@ -55,51 +55,39 @@
 ### 💻 Technical Skills
 
 #### **Programming Languages**
-- Java (Object-Oriented Programming - OOP, Multi-threading), - JavaScript (ES6+) ,- Python
-- Kotlin - Swift - TypeScript
+- Java (Object-Oriented Programming OOP, Multi-threading), JavaScript (ES6+) , Python, Kotlin, Swift, TypeScript
 
 #### **Web Development**
-- React (Hooks, State Management) - Next.js (Server-Side Rendering, Static Site Generation)
-- Node.js (RESTful APIs) - Tailwind CSS - HTML5, CSS3
+- React (Hooks, State Management) - Next.js (Server-Side Rendering, Static Site Generation), Node.js (RESTful APIs),Tailwind CSS, HTML5, CSS3
 
 #### **Mobile Development**
 
-- Kotlin (Android Apps) - Swift (iOS Apps) - Flutter (Cross-Platform Apps) - React Native (Cross-Platform Mobile Development)
-
-
-
-
-
-
-
-
-
+- Kotlin (Android Apps), Swift (iOS Apps),  Flutter (Cross-Platform Apps),  React Native (Cross-Platform Mobile Development)
 
 #### **Frameworks & Libraries**
-- Spring Boot (Backend Development)
-- Express.js
-- Three.js
+- Spring Boot (Backend Development), Express.js, Three.js
 
 #### **Databases**
 - MongoDB (NoSQL)
 - MySQL (SQL)
+- Firebase (NoSQL)
 
 #### **Tools & Platforms**
 - Git & GitHub
-- VS Code
-- Linux
+- VS Code, intellij, netbeans, atom
+- Linux and Windows OS
 - Firebase
 
 #### **Methodologies**
 - Test-Driven Development (TDD)
-- Agile Methodologies (Scrum, Kanban)
+- Agile Methodologies ( Kanban)
 - Clean Code Principles
 - RESTful API Development
 
 #### **Other Skills**
 - Machine Learning Fundamentals
 - Multi-threaded Programming
-- UI/UX Design with Tailwind CSS
+- UI/UX Design pattern
 - Problem Solving & Algorithms
 
 ---
