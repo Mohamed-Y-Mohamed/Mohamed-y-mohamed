@@ -8,36 +8,72 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="left">About me</h2>
 
-Hello! I'm **Mohamed Yusuf Mohamed**, a passionate and detail-oriented software developer with a strong foundation in **full-stack development**, **mobile application development**, and **machine learning fundamentals**. I thrive on creating impactful, user-centric solutions and have honed my skills through hands-on experience in **React**, **Java**, **MongoDB**, and **Next.js**.
+###
 
-I am driven by the principles of **Test-Driven Development (TDD)**, **Agile Methodologies**, and **Clean Code Practices**. My multilingual background in **Somali**, **Arabic**, and **English** enhances my ability to communicate effectively in diverse team environments.
+<p align="left">I am a dedicated Software Developer with experience in building web and mobile applications. I have a Bachelor of Engineering (BEng) Honours in Software Engineering and bring expertise in technologies like Java, React, Node.js, and MongoDB. Additionally, I have hands-on experience with modern frameworks such as Next.js, Spring Boot, and Tailwind CSS, and proficiency in mobile development using Kotlin, Swift, Flutter, and React Native.<br><br>My projects have equipped me with the ability to develop scalable and efficient applications, emphasizing clean code, Test-Driven Development (TDD), and Agile methodologies. I am continuously learning and passionate about staying at the forefront of emerging technologies. Fluent in Somali, Arabic, and English, I am eager to collaborate with like-minded professionals to solve real-world problems and innovate solutions.</p>
 
----
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 ### 💻 Technical Skills
 
 #### **Programming Languages**
-- Java (Object-Oriented Programming - OOP, Multi-threading)
-- JavaScript (ES6+)
-- Python
-- Kotlin
-- Swift
-- TypeScript
+- Java (Object-Oriented Programming - OOP, Multi-threading), - JavaScript (ES6+) ,- Python
+- Kotlin - Swift - TypeScript
 
 #### **Web Development**
-- React (Hooks, State Management)
-- Next.js (Server-Side Rendering, Static Site Generation)
-- Node.js (RESTful APIs)
-- Tailwind CSS
-- HTML5, CSS3
+- React (Hooks, State Management) - Next.js (Server-Side Rendering, Static Site Generation)
+- Node.js (RESTful APIs) - Tailwind CSS - HTML5, CSS3
 
 #### **Mobile Development**
-- Kotlin (Android Apps)
-- Swift (iOS Apps)
-- Flutter (Cross-Platform Apps)
-- React Native (Cross-Platform Mobile Development)
+
+- Kotlin (Android Apps) - Swift (iOS Apps) - Flutter (Cross-Platform Apps) - React Native (Cross-Platform Mobile Development)
+
+
+
+
+
+
+
+
+
 
 #### **Frameworks & Libraries**
 - Spring Boot (Backend Development)
