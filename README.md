@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohamed Yusuf Mohamed 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Yusuf Mohamed 👋</h1>
 
 <p align="center">
   <a href="https://domainexpansion.co.uk/"><img src="https://img.shields.io/badge/-Portfolio-0A1F44?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
@@ -10,13 +10,20 @@
 
 ## About Me
 
-I’m a passionate **Software Developer** specializing in **full-stack web and mobile development**, driven by a love for technology and learning. With a **BEng in Software Engineering**, I possess experience in crafting efficient, scalable applications using modern tools and frameworks.
+Hey there! 👋 I'm a passionate **Software Developer** who loves tackling challenges in both **web** and **mobile development**. With a strong foundation in **full-stack development**, I enjoy crafting scalable, efficient solutions that make an impact. 
 
-I thrive in collaborative environments, solving real-world problems, and exploring new technologies to enhance my expertise. Fluent in **Somali**, **Arabic**, and **English**, I bring a unique perspective and adaptability to every team. My goal is to continuously grow, contribute, and make a meaningful impact through innovation.
+I’m always eager to learn and grow, constantly exploring new tools and technologies to level up my skills. Whether I’m debugging tricky issues, brainstorming innovative ideas, or collaborating with teams, I thrive in dynamic, problem-solving environments.
+
+Some of my strengths include:
+- Clean and maintainable code following **best practices**.
+- A knack for **creative solutions** and **problem-solving**.
+- A deep commitment to **continuous learning** and **staying ahead** in the ever-evolving tech world.
+
+My ultimate goal? To join a team where I can contribute meaningfully, grow alongside amazing professionals, and make a real difference. 🚀
 
 ---
 
-## 💻 Technical Skills
+## 💻 Skills & Technologies
 
 ### Languages
 <div>
@@ -70,32 +77,32 @@ I thrive in collaborative environments, solving real-world problems, and explori
 </div>
 
 ### Methodologies
-- **Agile Development** (Kanban, Scrum)
-- **Test-Driven Development (TDD)**
-- **Clean Code Principles**
-- **RESTful API Development**
+- Agile (Scrum, Kanban)
+- Test-Driven Development (TDD)
+- Clean Code Principles
+- RESTful API Development
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Flavour Fusion - Recipe App](#)**: A full-stack recipe app allowing users to explore, like/unlike, and save meals with account management.
+- **[Flavour Fusion - Recipe App](#)**: A dynamic full-stack recipe app where users can explore, like, and save meals while managing their profiles.
   - **Tech Stack**: MongoDB, JWT, React, Node.js, Tailwind CSS.
   - **GitHub**: *Link Pending*
 
 - **[ArtVisio](https://github.com/Mohamed-Y-Mohamed/ArtVisio)**: A VR and 3D-enhanced virtual gallery for showcasing artworks.
   - **Tech Stack**: Three.js, Vite, Firebase, Node.js.
 
-- **[NHS Booking System](https://github.com/Mohamed-Y-Mohamed/SoftwareDevelopment-Group-E-Project)**: A streamlined booking system for NHS patients.
+- **[NHS Booking System](https://github.com/Mohamed-Y-Mohamed/SoftwareDevelopment-Group-E-Project)**: A streamlined booking system for NHS patients, improving booking efficiency.
   - **Tech Stack**: React, PHP, SQL.
 
 ### Other Projects
-- **[Dice Game](https://github.com/Mohamed-Y-Mohamed/dice-game)**: Kotlin-based dice game for Android.
-- **[Weather Display App](https://github.com/Mohamed-Y-Mohamed/weather-app)**: Swift-based weather app with multi-location support.
-- **[Electric Prediction System](https://github.com/Mohamed-Y-Mohamed/electric-prediction)**: Python energy prediction system.
-- **[Skin Consultation Manager](https://github.com/Mohamed-Y-Mohamed/westminster-Skin-Consultation-Manager)**: Java GUI for consultations.
-- **[Multi-threaded Ticket Machine Application](https://github.com/Mohamed-Y-Mohamed/multi-threaded-ticket-machine-software)**: Java-based ticket vending system.
-- **[To Do List App](https://github.com/Mohamed-Y-Mohamed/ToDoListApp2.0)**: Spring Boot-powered to-do app.
+- **[Dice Game](https://github.com/Mohamed-Y-Mohamed/dice-game)**: A Kotlin-based Android game with intuitive game logic.
+- **[Weather Display App](https://github.com/Mohamed-Y-Mohamed/weather-app)**: A Swift weather app with multi-location support.
+- **[Electric Prediction System](https://github.com/Mohamed-Y-Mohamed/electric-prediction)**: A Python-based energy prediction tool.
+- **[Skin Consultation Manager](https://github.com/Mohamed-Y-Mohamed/westminster-Skin-Consultation-Manager)**: A Java GUI for consultation management.
+- **[Multi-threaded Ticket Machine Application](https://github.com/Mohamed-Y-Mohamed/multi-threaded-ticket-machine-software)**: A high-performing ticket vending system.
+- **[To Do List App](https://github.com/Mohamed-Y-Mohamed/ToDoListApp2.0)**: A Spring Boot-powered task management app.
 
 ---
 
@@ -116,4 +123,4 @@ I thrive in collaborative environments, solving real-world problems, and explori
 
 ---
 
-⭐ *Thanks for visiting! Feel free to star and fork any projects that inspire you.*
+⭐ *Thanks for visiting! If you like what you see, feel free to star and fork any projects.*
