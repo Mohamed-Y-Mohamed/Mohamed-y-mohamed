@@ -119,7 +119,7 @@ My ultimate goal? To join a team where I can contribute meaningfully, grow along
 
 - 🌍 Portfolio: [domainexpansion.co.uk](https://domainexpansion.co.uk/)
 - 💼 LinkedIn: [linkedin.com/in/mohamed-yusuf-mohamed-896464161](https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/)
-- 📧 Email: [m.y.m95@outlook.com](mailto:mohamed.y.mohamed1@outlook.com)
+- 📧 Email: [mohamed.y.mohamed1@outlook.com](mailto:mohamed.y.mohamed1@outlook.com)
 
 ---
 
