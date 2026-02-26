@@ -1,126 +1,84 @@
-<h1 align="center">Hi, I'm Mohamed Yusuf Mohamed 👋</h1>
+# Mohamed Yusuf Mohamed
 
-<p align="center">
-  <a href="https://domainexpansion.co.uk/"><img src="https://img.shields.io/badge/-Portfolio-0A1F44?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:m.y.m1995@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+Software Engineering graduate with First Class Honours from the University of Westminster.
+I build reliable systems with a strong focus on backend development, data handling, and scalable application design. My work spans full-stack web applications, concurrent Java systems, Android apps, and data-driven tools. I am particularly interested in growing as a backend and systems-focused Software Engineer.
 
 ---
 
 ## About Me
 
-Hey there! 👋 I'm a passionate **Software Developer** who loves tackling challenges in both **web** and **mobile development**. With a strong foundation in **full-stack development**, I enjoy crafting scalable, efficient solutions that make an impact. 
+I enjoy solving problems properly.
+I am not interested in quick fixes or surface-level solutions. I prefer understanding how a system works end to end, identifying root causes, and designing clean, maintainable code that lasts.
 
-I’m always eager to learn and grow, constantly exploring new tools and technologies to level up my skills. Whether I’m debugging tricky issues, brainstorming innovative ideas, or collaborating with teams, I thrive in dynamic, problem-solving environments.
+My work often focuses on:
+- Backend development using Java, Node.js, and SQL
+- API design and RESTful services
+- Data modelling and database integration
+- Concurrency and multithreaded systems
+- Building full-stack applications with structured architecture
 
-Some of my strengths include:
-- Clean and maintainable code following **best practices**.
-- A knack for **creative solutions** and **problem-solving**.
-- A deep commitment to **continuous learning** and **staying ahead** in the ever-evolving tech world.
-
-My ultimate goal? To join a team where I can contribute meaningfully, grow alongside amazing professionals, and make a real difference. 🚀
-
----
-
-## 💻 Skills & Technologies
-
-### Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-</div>
-
-### Web Development
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
-
-### Mobile Development
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
-</div>
-
-### Frameworks & Libraries
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-</div>
-
-### Databases
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-</div>
-
-### Tools & Platforms
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-</div>
-
-### Methodologies
-- Agile (Scrum, Kanban)
-- Test-Driven Development (TDD)
-- Clean Code Principles
-- RESTful API Development
+I am currently aiming to deepen my knowledge in:
+- Scalable backend systems
+- Database architecture and performance
+- Distributed systems fundamentals
+- Cloud-native application design
 
 ---
 
-## 🚀 Featured Projects
+## Core Strengths
 
-- **[Flavour Fusion - Recipe App](#)**: A dynamic full-stack recipe app where users can explore, like, and save meals while managing their profiles.
-  - **Tech Stack**: MongoDB, JWT, React, Node.js, Tailwind CSS.
-  - **GitHub**: *Link Pending*
-
-- **[ArtVisio](https://github.com/Mohamed-Y-Mohamed/ArtVisio)**: A VR and 3D-enhanced virtual gallery for showcasing artworks.
-  - **Tech Stack**: Three.js, Vite, Firebase, Node.js.
-
-- **[NHS Booking System](https://github.com/Mohamed-Y-Mohamed/SoftwareDevelopment-Group-E-Project)**: A streamlined booking system for NHS patients, improving booking efficiency.
-  - **Tech Stack**: React, PHP, SQL.
-
-### Other Projects
-- **[Dice Game](https://github.com/Mohamed-Y-Mohamed/dice-game)**: A Kotlin-based Android game with intuitive game logic.
-- **[Weather Display App](https://github.com/Mohamed-Y-Mohamed/weather-app)**: A Swift weather app with multi-location support.
-- **[Electric Prediction System](https://github.com/Mohamed-Y-Mohamed/electric-prediction)**: A Python-based energy prediction tool.
-- **[Skin Consultation Manager](https://github.com/Mohamed-Y-Mohamed/westminster-Skin-Consultation-Manager)**: A Java GUI for consultation management.
-- **[Multi-threaded Ticket Machine Application](https://github.com/Mohamed-Y-Mohamed/multi-threaded-ticket-machine-software)**: A high-performing ticket vending system.
-- **[To Do List App](https://github.com/Mohamed-Y-Mohamed/ToDoListApp2.0)**: A Spring Boot-powered task management app.
+- Strong foundation in data structures, algorithms, and software design
+- Persistent problem-solver who works through complex bugs methodically
+- Fast learner who adapts quickly to new technologies
+- Detail-oriented with a focus on code clarity and maintainability
+- Comfortable working both independently and in collaborative teams
 
 ---
 
-## 📊 GitHub Stats
+## Technical Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Y-Mohamed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Y-Mohamed&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**Languages**
+`Java` `JavaScript` `Python` `TypeScript` `Kotlin` `Swift`
+
+**Backend & Systems**
+`Spring Boot` `Node.js` `Express` `REST APIs` `SQL` `Concurrent Programming`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS` `HTML / CSS`
+
+**Databases**
+`MySQL` `MongoDB` `Firebase`
+
+**Tools**
+`Git` `GitHub` `Linux` `IntelliJ` `VS Code`
 
 ---
 
-## 🌐 Connect with Me
+## Selected Projects
 
-- 🌍 Portfolio: [domainexpansion.co.uk](https://domainexpansion.co.uk/)
+### ArtVisio
+A VR and 3D virtual gallery platform. Built interactive visualisations using Three.js and Firebase. Resolved a complex rendering issue involving version conflicts and component lifecycle handling.
+
+### NHS Booking System
+Full-stack booking platform built in a team environment. Implemented secure login, scheduling flows, and backend optimisation. Contributed to system structure and team coordination.
+
+### Multi-threaded Ticket Machine
+Java-based concurrent system simulating real-world ticket vending. Focused on thread management, synchronisation, and performance behaviour.
+
+### Electric Prediction System
+Python-based forecasting tool using regression models. Cleaned and transformed time-series data and evaluated model performance.
+
+---
+
+## What I'm Working Towards
+
+I want to build systems that operate at scale.
+My goal is to grow into a backend-focused Software Engineer working on performance-critical, data-intensive, or distributed systems. I am particularly interested in roles where strong computer science fundamentals matter and where engineering quality is taken seriously.
+
+---
+
+## Connect
+
+- 🌐 Portfolio: [domainexpansion.co.uk](https://domainexpansion.co.uk)
 - 💼 LinkedIn: [linkedin.com/in/mohamed-yusuf-mohamed-896464161](https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/)
 - 📧 Email: [mohamed.y.mohamed1@outlook.com](mailto:mohamed.y.mohamed1@outlook.com)
-
----
-
-⭐ *Thanks for visiting! If you like what you see, feel free to star and fork any projects.*
