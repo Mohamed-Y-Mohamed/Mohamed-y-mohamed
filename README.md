@@ -105,17 +105,6 @@ A Java concurrency project exploring thread synchronisation and execution flow. 
 
 ---
 
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Y-Mohamed&show_icons=true&theme=github_dark&hide_border=true&title_color=7fff6e&icon_color=7fff6e&text_color=a0a0b0&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Y-Mohamed&layout=compact&theme=github_dark&hide_border=true&title_color=7fff6e&text_color=a0a0b0&bg_color=0d1117" />
-</div>
-
----
-
 ## 🎯 What I'm Working Towards
 
 Right now I'm looking to grow in a professional environment where I can:
