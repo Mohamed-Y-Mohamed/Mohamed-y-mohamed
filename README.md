@@ -68,7 +68,7 @@ Most of my experience comes from university projects, personal builds, and an in
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Java E-Commerce App
+### 🛒 Java E-Commerce App (Currently underdevelopment)
 A Spring Boot backend I'm actively building — authentication, product management, and order handling. Helping me solidify backend architecture, database integration, and clean API design.
 
 `Spring Boot` `Java` `MySQL` `REST API` `Auth`
