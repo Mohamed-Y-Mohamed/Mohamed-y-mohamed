@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Yusuf%20Mohamed&fontSize=40&fontColor=7fff6e&fontAlignY=38&desc=Software%20Engineer%20%7C%20First%20Class%20BSc%20%7C%20University%20of%20Westminster&descColor=a0a0b0&descAlignY=58&animation=fadeIn" />
 
-![Portfolio](https://img.shields.io/badge/🌐_Portfolio-domainexpansion.co.uk-7fff6e?style=for-the-badge&labelColor=0d1117)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)
-![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)(mailto:mohamed.y.mohamed1@outlook.com)
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-domainexpansion.co.uk-7fff6e?style=for-the-badge&labelColor=0d1117)](https://domainexpansion.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mohamed.y.mohamed1@outlook.com)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-7fff6e?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -102,6 +102,17 @@ A Java concurrency project exploring thread synchronisation and execution flow. 
 </td>
 </tr>
 </table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedYusufMohamed&show_icons=true&theme=github_dark&hide_border=true&title_color=7fff6e&icon_color=7fff6e&text_color=a0a0b0&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYusufMohamed&layout=compact&theme=github_dark&hide_border=true&title_color=7fff6e&text_color=a0a0b0&bg_color=0d1117" />
+
+</div>
 
 ---
 
