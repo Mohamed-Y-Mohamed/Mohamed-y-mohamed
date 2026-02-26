@@ -68,10 +68,10 @@ Most of my experience comes from university projects, personal builds, and an in
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Java E-Commerce App (Currently underdevelopment)
-A Spring Boot backend I'm actively building — authentication, product management, and order handling. Helping me solidify backend architecture, database integration, and clean API design.
+### 🛒 Java E-Commerce App
+A full-stack e-commerce app — Spring Boot backend with authentication, product management, and order handling, paired with a Next.js frontend. Helping me solidify backend architecture, database integration, and clean API design.
 
-`Spring Boot` `Java` `MySQL` `REST API` `Auth`
+`Spring Boot` `Next.js` `PostgreSQL` `REST API` `Auth`
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +79,7 @@ A Spring Boot backend I'm actively building — authentication, product manageme
 ### 🎨 ArtVisio
 A 3D & VR gallery built with Three.js and Firebase. Hit a rendering bug from version conflicts — traced it properly rather than working around it. Changed how I approach debugging.
 
-`Three.js` `Firebase` `3D/VR` `WebGL`
+`Three.js` `Vite` `Firebase` `3D/VR` `WebGL`
 
 </td>
 </tr>
