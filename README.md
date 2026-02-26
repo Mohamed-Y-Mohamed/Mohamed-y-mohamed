@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-domainexpansion.co.uk-7fff6e?style=for-the-badge&labelColor=0d1117)](https://domainexpansion.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mohamed.y.mohamed1@outlook.com)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-7fff6e?style=for-the-badge&labelColor=0d1117)
+![Open to Work]
 
 </div>
 
