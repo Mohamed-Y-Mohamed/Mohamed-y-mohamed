@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:CC5500,100:16213e&height=200&section=header&text=Mohamed%20Yusuf%20Mohamed&fontSize=40&fontColor=CC5500&fontAlignY=38&desc=Software%20Engineer%20%7C%20First%20Class%20BSc&descColor=a0a0b0&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:CC5500,100:16213e&height=200&section=header&text=Mohamed%20Yusuf%20Mohamed&fontSize=40&fontColor=FAF5E6&fontAlignY=38&desc=Software%20Engineer%20%7C%20First%20Class%20BSc&descColor=a0a0b0&descAlignY=58&animation=fadeIn" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-domainexpansion.co.uk-7fff6e?style=for-the-badge&labelColor=0d1117)](https://domainexpansion.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohamed-yusuf-mohamed-896464161/)
